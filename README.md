@@ -6,4 +6,4 @@ Refactoring and other changes included:
 - adding title element 
 
 Screenshot of the deployed url:
-
+! screenshot (https://github.com/tobyhayde/Refactor-SEO/blob/main/Screen%20Shot%202021-12-22%20at%204.20.45%20PM.png)
