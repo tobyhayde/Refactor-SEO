@@ -109,7 +109,7 @@ p {
 }
 /*END - styles for main body content*/
 
-/*START - styles for secondary body content on right side*/
+/*START - styles for secondary body content on right side with png images*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -142,7 +142,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-/*END - styles for secondary body content on right side*/
+/*END - styles for secondary body content on right side with png images*/
 
 /*START - styles for footer*/
 .footer {
