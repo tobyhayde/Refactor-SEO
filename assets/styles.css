@@ -64,7 +64,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-/*START - hero section R/L positioning */
+/*START - hero section R/L positioning*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -74,7 +74,7 @@ p {
     float: right;
     margin-left: 25px;
 }
-/*END - hero section R/L positioning */
+/*END - hero section R/L positioning*/
 
 /*START - styles for main body content*/
 .content {
@@ -155,4 +155,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
-/*END - styles for footers*/
+/*END - styles for footer*/
